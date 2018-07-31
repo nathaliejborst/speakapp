@@ -1,3 +1,3 @@
 # speakapp
 
-https://nathaliejborst.github.io/
+https://nathaliejborst.github.io/speakapp/
